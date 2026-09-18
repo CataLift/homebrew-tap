@@ -1,8 +1,8 @@
 class Gaslight < Formula
   desc "AI-native fork of Terraform that responds identically to every command"
   homepage "https://gaslightai.dev"
-  url "https://github.com/CataLift/gaslight-cli/archive/refs/tags/v0.9.4.tar.gz"
-  sha256 "f874f79e10681c7ad53e95e8b4084adde1dbbdb49a8418e50aa421fcf6ee6286"
+  url "https://github.com/CataLift/gaslight-cli/archive/refs/tags/v0.9.5.tar.gz"
+  sha256 "e417b5247628569a2a4f9a0375e5e13004fe82c43587b59d3f8b53efc9a5ad7b"
   license "MIT"
   head "https://github.com/CataLift/gaslight-cli.git", branch: "main"
 
