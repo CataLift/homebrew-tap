@@ -1,8 +1,8 @@
 class Gaslight < Formula
   desc "Non-deterministic infrastructure as intent"
   homepage "https://gaslightai.dev"
-  url "https://github.com/CataLift/gaslight-cli/archive/refs/tags/v0.9.5.tar.gz"
-  sha256 "e417b5247628569a2a4f9a0375e5e13004fe82c43587b59d3f8b53efc9a5ad7b"
+  url "https://github.com/CataLift/gaslight-cli/archive/refs/tags/v0.9.6.tar.gz"
+  sha256 "f241b66b026db5e8cfa8f0b91b0dec6e85ed36e58bdea477fcaa9875b04033cc"
   license "MIT"
   head "https://github.com/CataLift/gaslight-cli.git", branch: "main"
 
